@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #2B47D6;
+  --color-primary-dark: #1E32A8;
+  --color-accent: #FF7F50;
+  --color-accent-light: #FFF0E8;
+  --color-background: #FFF5EE;
+  --color-surface: #FFFFFF;
+  --color-text: #1A1A1A;
+  --color-text-muted: #6B7280;
+  --color-highlight: #34D399; /* Emerald – professional, educational accent */
+}
+
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .glass {
+    background: rgba(255, 245, 238, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 127, 80, 0.12);
+  }
+
+  .bg-hero {
+    background-color: var(--color-background);
+    background-image:
+      radial-gradient(circle at 80% 50%, rgba(255, 127, 80, 0.08) 0%, transparent 50%),
+      radial-gradient(circle at 90% 60%, transparent 30%, rgba(43, 71, 214, 0.04) 31%, transparent 32%);
+  }
+
+  .label-accent {
+    color: var(--color-accent);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .btn-primary {
+    background-color: var(--color-primary);
+    color: white;
+    border-radius: 9999px;
+    font-weight: 500;
+    transition: background-color 0.15s;
+  }
+
+  .btn-primary:hover {
+    background-color: var(--color-primary-dark);
+  }
+
+  .btn-secondary {
+    background-color: white;
+    color: var(--color-text);
+    border: 1px solid #E5E7EB;
+    border-radius: 9999px;
+    font-weight: 500;
+    transition: background-color 0.15s;
+  }
+
+  .btn-secondary:hover {
+    background-color: #F9FAFB;
+  }
+
+  /* Highlight utilities for a professional, educational accent */
+  .bg-highlight {
+    background-color: var(--color-highlight);
+  }
+  .text-highlight {
+    color: var(--color-highlight);
+  }
+  .shadow-highlight {
+    box-shadow: 0 0 0 2px var(--color-highlight);
+  }
+  .border-highlight {
+    border-color: var(--color-highlight);
+  }
+    background-color: #F9FAFB;
+  }
+}

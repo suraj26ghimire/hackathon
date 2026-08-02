@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/chosen.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.ui/jquery.multiselect.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/datepicker.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/jquery-ui.theme-custom.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/shariff.complete.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/magnific-popup.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/bmatznermediaelement/mediaelementplayer.min.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/css/style.css?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/modernizr-2.8.3.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/app-C-ZzSb6b.css",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/question-big.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/js/taffy-min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/origin.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/scholarships.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/status.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/subjectgroups.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/intentions.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadstipendiendatenbanklsh/data/a/js/deadlines.js?906873b10&cb=20260801093500",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/stipdb/stipdb-a-lib.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://code.jquery.com/jquery-migrate-1.2.1.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.tooltip/jquery.tooltip.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.multiselect-1.13.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/bootstrap.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/bootstrap-accessibility.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/chosen/chosen.jquery.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/stipdb/stipdb.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/phdgermany/phdgermany.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/datepicker.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.bxslider.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/jquery.smooth-scroll.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/isotope.pkgd.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/shariff.complete.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/libs/jquery.lazyloadxt.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/spin.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/jquery.magnific-popup.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/bmatznermediaelement/mediaelement-and-player.min.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/require.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://code.highcharts.com/6.1.1/highcharts.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://code.highcharts.com/6.1.1/modules/data.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://code.highcharts.com/6.1.1/modules/exporting.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://code.highcharts.com/6.1.1/modules/offline-exporting.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/ipp.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/js/script.js?906873b10",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/app-sVtYxxlA.js",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/info.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/SourceSans3-Regular-DCUD6Pj3.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/SourceSans3-Light-Da-3MQVS.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/SourceSans3-Semibold-DZC6a7a9.woff2",
+    "method": "GET"
+  },
+  {
+    "url": "https://api.daad.de/api/page/en/?API_FOR_LEGACY",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/chosen-sprite.png",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/pic_arrow_blue.gif",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/single-neutral-actions.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/pin-icon.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/bundles/daadimperia/pics/book-open.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/icons-BX_Ms_TO.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/logo-light-1I6xeyd5.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/logo-dark-DQgPj0vI.svg",
+    "method": "GET"
+  },
+  {
+    "url": "https://www2.daad.de/dist/CookieModal-Bl-lujze.js",
+    "method": "GET"
+  }
+]
