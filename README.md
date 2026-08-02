@@ -1,15 +1,13 @@
-# AI Scholarship Matcher 🎓
+#  Scholarship Matcher 🎓
 
-An AI-powered scholarship matching platform for Nepali students. Students create a profile, and the system automatically matches them with relevant scholarships, explains why they qualify, and helps them apply.
+A scholarship matching platform for Nepali students. Students create a profile, and the system automatically matches them with relevant scholarships, explains why they qualify, and helps them apply.
 
 ## 🌟 Features
 
-- **AI Scholarship Matching** — Multi-criteria scoring (GPA, Education, Field, Province, Income, Gender)
+- **Scholarship Matching** — Multi-criteria scoring (GPA, Education, Field, Province, Income, Gender)
 - **Student Profile** — Comprehensive profile to maximize match accuracy
-- **30 Sample Scholarships** — Seeded database with diverse Nepali scholarships
 - **Scholarship Search** — Search by field, location, gender, need-based, etc.
 - **Bookmark System** — Save scholarships for later
-- **AI Chatbot** — Floating assistant for questions
 - **Match Explanation** — Shows why you match or miss each scholarship
 - **JWT Authentication** — Secure register/login/logout
 - **Admin Panel** — Django admin for managing scholarships and users
@@ -32,7 +30,7 @@ An AI-powered scholarship matching platform for Nepali students. Students create
 ## 📁 Project Structure
 
 ```
-ai-scholarship-matcher/
+scholarsathi/
 ├── venv/                    # Python virtual environment
 ├── backend/                 # Django backend
 │   ├── backend/             # Django project settings, urls
@@ -185,48 +183,5 @@ DATABASES = {
 }
 ```
 
-### Add OpenAI API (for real AI chatbot)
 
-In `backend/chatbot/views.py`, replace the mock responses with:
 
-```python
-import openai
-openai.api_key = "YOUR_OPENAI_KEY"
-response = openai.chat.completions.create(...)
-```
-
----
-
-## 🛠️ Development Tips
-
-- **Re-seed scholarships:** `python manage.py seed_scholarships`
-- **Create admin:** `python manage.py createsuperuser`
-- **API browsing:** Visit `http://localhost:8000/api/scholarships/list/` in browser (DRF UI)
-- **Manage scholarships:** `http://localhost:8000/admin`
-
----
-
-## 📦 Extending the Project
-
-| Feature              | Where to add                                |
-|----------------------|---------------------------------------------|
-| Email reminders      | `notifications/` — add Celery + SMTP        |
-| OCR transcript       | `users/` — add PyTesseract or Google Vision |
-| Real AI chatbot      | `chatbot/views.py` — plug in OpenAI/Gemini  |
-| Telegram reminders   | `notifications/` — add python-telegram-bot  |
-| International scholarships | Add to `seed_scholarships` data       |
-
----
-
-## 🏆 Hackathon Demo Flow
-
-1. Register → Fill Profile
-2. Go to Dashboard → See AI-matched scholarships
-3. Click a scholarship → See 92% match score + explanation
-4. Bookmark it → See in Dashboard sidebar
-5. Use chatbot → Ask "What documents do I need?"
-6. Admin panel → Show scholarship management
-
----
-
-Built with ❤️ for Nepal's student community.
